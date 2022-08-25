@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Omokuti
 - 👀 I’m interested in Software Engineering and Design
-- 🌱 I’m currently learning Software Engineering at ALX
-#- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me | twitter.com/kutiomowale |  linkedin.com/in/kutiomowale
 
 <!---
