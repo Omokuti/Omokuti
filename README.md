@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kutiomowale
 - 👀 I’m interested in Software Engineering and Design
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering of ALX Africa
 - 📫 How to reach me | twitter.com/kutiomowale |  linkedin.com/in/kutiomowale
 
 <!---
