@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @kutiomowale
-- 👀 I’m interested in Software Engineering and Design
-- 🌱 I’m currently learning Software Engineering of ALX Africa
-- 📫 How to reach me | twitter.com/kutiomowale |  linkedin.com/in/kutiomowale
+- 👋 Hi, I’m Omowale Ransome-Kuti
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently a Software Engineering Student at ALX Africa
+- 📫 How to reach me:
+
+  [Twitter](twitter.com/kutiomowale) 
+| [LinkedIn](linkedin.com/in/kutiomowale)
 
 <!---
 Omokuti/Omokuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
