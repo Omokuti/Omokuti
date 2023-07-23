@@ -3,8 +3,8 @@
 - 🌱 I’m currently a Software Engineering Student at ALX Africa
 - 📫 How to reach me:
 
-  [Twitter](twitter.com/kutiomowale) 
-| [LinkedIn](linkedin.com/in/kutiomowale)
+  [Twitter](https://twitter.com/kutiomowale) 
+| [LinkedIn](https://linkedin.com/in/kutiomowale)
 
 <!---
 Omokuti/Omokuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
