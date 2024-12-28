@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Omowale Ransome-Kuti
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently a Software Engineering Student at ALX Africa
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning to code on freeCodeCamp.org
 - 📫 How to reach me:
 
-  [Twitter](https://twitter.com/kutiomowale) 
+  [X](https://x.com/kutiomowale) 
 | [LinkedIn](https://linkedin.com/in/kutiomowale)
 
 <!---
